@@ -1,0 +1,8 @@
+Notes
+The internet is a network of networks 
+The internet was basically created in the 1960s by American DOD but now spans the whole world and is a part of our lives
+All our data is sent in packets. IP controls where the data is sent Transmission Control Protocol controls manages if packets are sent in correct order.
+There are also other protocols that enable communication and data exchange mainly DNS Domain Name System HTTPS Hypertext Transfer Protocol and SSL/TSL Secure Socket Layer / Transport Layer Security 
+Ports are used to identify the application or service running on our device 
+Sockets are a comibnation of IP adress and port number used to establish connection between devices
+During handshake process the client and sever exchange info about encryption algorithms and other parameters 
