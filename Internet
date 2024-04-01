@@ -6,3 +6,8 @@ There are also other protocols that enable communication and data exchange mainl
 Ports are used to identify the application or service running on our device 
 Sockets are a comibnation of IP adress and port number used to establish connection between devices
 During handshake process the client and sever exchange info about encryption algorithms and other parameters 
+URL Uniform Resourse Locator is different from domain name as it includes other features of the domain name such as the HTTPS protocol and the path
+
+HOSTING
+Shared Hosting(We can host in a server where other websites are hosted)
+Dedicated server(Having our own server on a device to only have our site)
